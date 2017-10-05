@@ -1,0 +1,2 @@
+bindgen  $1 --convert-macros -- --target=armv7-unknown-linux-gnueabihf -I/home/recursive/workshops/2017/icefoss/code2/wiring1/wiringPi --sysroot=/usr/lib/gcc-cross/arm-linux-gnueabihf/4.7 -mcpu=cortex-a7 
+

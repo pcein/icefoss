@@ -1,0 +1,12 @@
+
+Demonstrate how to make a shared library from C source.
+
+Read the file "m". It creates a native shared library.
+
+m-cross generates a shared library for armv7 boards.
+
+
+
+
+
+

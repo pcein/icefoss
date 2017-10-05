@@ -1,0 +1,3 @@
+
+pandoc $1.md  -s -t beamer -o $1.pdf -V theme:metropolis
+

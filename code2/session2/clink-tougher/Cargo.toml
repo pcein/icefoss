@@ -1,0 +1,6 @@
+[package]
+name = "clink-tougher"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.in>"]
+
+[dependencies]

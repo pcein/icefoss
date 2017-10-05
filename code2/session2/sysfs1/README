@@ -1,0 +1,4 @@
+
+A shell script which shows how to put on
+LED on GPIOA0 using the sysfs interface.
+

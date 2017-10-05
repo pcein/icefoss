@@ -1,0 +1,3 @@
+
+A simpe Rust program which prints out its commandline
+arguments. Does not use any high level library.

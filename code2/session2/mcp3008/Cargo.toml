@@ -1,0 +1,8 @@
+[package]
+name = "mcp3008"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.in>"]
+
+[dependencies]
+spidev = "0.3.0"
+

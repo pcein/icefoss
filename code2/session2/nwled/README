@@ -1,0 +1,9 @@
+client and server run on two different machines and
+communicate using UDP sockets. The server receives status
+of the two LED's in a two element buffer of the form:
+
+[0, 1]
+
+which means Pin0 is 0 and pin1 is 1.
+
+Client uses *structopt* for argument parsing.

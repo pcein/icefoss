@@ -1,0 +1,5 @@
+
+We will now create our own shared library and call the C function
+contained in that library from Rust.
+
+

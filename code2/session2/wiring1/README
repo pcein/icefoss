@@ -1,0 +1,4 @@
+
+Rust code is linked with wiringPi C code (uses bindgen).
+
+src/main.rs blinks LED on GPIOA0 and reads status of GPIOA3

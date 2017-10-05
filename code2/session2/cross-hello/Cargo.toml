@@ -1,0 +1,6 @@
+[package]
+name = "cross-hello"
+version = "0.1.0"
+authors = ["Pramode <mail@pramode.in>"]
+
+[dependencies]

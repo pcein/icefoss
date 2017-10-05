@@ -1,0 +1,3 @@
+uses the "structopt" library to parse commandline arguments
+and put LED's on/off, read digital inputs.
+

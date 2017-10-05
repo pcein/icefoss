@@ -1,0 +1,6 @@
+
+Demonstrates how to cross-compile Rust code for
+armv7 targets.
+
+Read the file "c" in this folder.
+

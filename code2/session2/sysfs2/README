@@ -1,0 +1,5 @@
+
+A Rust program which uses the sysfs interface to
+put on LED connected to GPIOA0.
+
+
