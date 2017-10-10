@@ -31,14 +31,19 @@
 
 # Why Not Rust?
 
-- Complex language. Very steep learning curve. Completely unsuited for beginners.
+- Complex language with a steep learning curve. May not be suitable for beginners.
+  (Rust community is aware of the problem ... there are efforts to improve the language
+   ergonomics and create high quality learning materials).
+
+# Why Not Rust?
 
 - Difficult to express many data structure patterns in "safe" Rust.
 
 - Very young ... library ecosystem not as mature as that of older languages (but
   this will improve with time).
 
-- Long compilation time (this may improve)
+- Long compilation time (this will improve).
+
 
 # Why Not C/C++?
 
@@ -433,10 +438,6 @@ fn main() {
     
 }
 ```
-# Relax, and think!
-
-![](images/thinkingcat.jpg){ height=70%, width=70% }
-
 
 # Pop an element from a vector
 
@@ -617,8 +618,6 @@ Time to look at the core ideas:
 - Borrowing
 - Lifetime
 
-#
-![](images/compiling.png){ height=55% }
 
 # Scope
 
@@ -1012,9 +1011,6 @@ fn main() {
     }
 }
 ```
-# Unsafe
-
-![](images/unsafe.png){ height=60%, width=60% }
 
 
 # Unsafe
@@ -1042,8 +1038,6 @@ fn main() {
 }
 ```
 
-#
-![](images/pointers.png){ height=50%, width=60% }
 
 # Zero Cost Abstractions
 
@@ -1221,12 +1215,8 @@ fn is_bigger <T1:HasArea, T2:HasArea>
 - http://intorust.com/ (screencasts for learning Rust)
 
 
-# Welcome to the 2nd Session!
-
-![](images/bunnie.jpg){ height=50% }
 
 # The NanoPi Neo
-
 
 ![NanoPi Neo](images/neo.jpg){ height=50% }
 
@@ -1765,14 +1755,10 @@ fn main() {
 
 Hope all of you enjoyed playing with Rust! Keep learning more!
 
-# Mastering GNU/Linux
-
-![](images/linux.png){ height=50% }
 
 
-# Contact Info
+# Contact me
 
 - Email:    mail@pramode.net
-- Whatsapp: 8075 942 748 
 
 
